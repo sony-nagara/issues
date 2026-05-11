@@ -26,6 +26,7 @@ For other models of these phones, please contact the developers by opening an is
 - RIL
 - VoLTE
 - Camera
+- LED
 - Wireless charging
 - Fingerprint
 - Sensors
@@ -33,6 +34,7 @@ For other models of these phones, please contact the developers by opening an is
 - SD card
 
 ### Not working
-- LED doesn't blink on notification
-- VoWiFi
+- VoWiFi (reported from some carriers)
+
+### Won't fix
 - Switching from 1080p to 4K cause everything on the screen being tiny (probably won't be fixed)
